@@ -1,4 +1,1 @@
-TODO:
-
-- [x] filter like events (must have either '+' or '-')
-- [ ] webln for payment stuff
+Just a simple app to help settle a bill with the help of nostr Zaps.
